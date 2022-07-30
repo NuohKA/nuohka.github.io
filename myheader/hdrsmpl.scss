@@ -1,0 +1,75 @@
+/**
+ * myheader
+ *   myheader__logo
+ *   myheader__button
+ *     myheader__button__div1
+ *     myheader__button__div2
+ *     myheader__button__div3
+ *     myheader__button__batsu
+ *   myheader__wrapper
+ *     myheader__wrapper__item
+ *       a
+ *     myheader__wrapper__item
+ *       a
+ * 
+ */
+
+.myheader{
+    position:relative;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: aliceblue;
+           display: inline-flex;
+           margin: 0px;
+    
+
+    &__logo{
+        font-weight: bold;
+        font-size: 25px;
+        padding-left: 10px;
+        
+        color: black;
+        text-decoration: none;
+            margin: auto;
+            text-align: center;
+        
+    }
+
+        &__button{
+                display: none;
+            
+           
+                
+        }
+
+        &__wrapper{
+            width: 100%;
+            margin: 0px;
+                display: inline-flex;
+            
+           
+
+            &__item{
+                width: 100%;
+                background-color: aliceblue;
+                
+                a{
+                    padding-top: 2rem;
+                    padding-bottom: 2rem;
+                    padding-left: 60px;
+                    opacity: 0.9;
+                    text-decoration: none;
+                    color: black;
+                    background-color: aliceblue;
+                        padding-top: 1rem;
+                        padding-bottom: 1rem;
+                        display: block;
+                    
+                    
+                }
+            }
+        }
+ }
+
+ 

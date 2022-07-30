@@ -1,0 +1,115 @@
+.myname {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 50vh;
+  text-align: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+}
+
+.myname-h2 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.myname-dis {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.apps {
+  background-color: aliceblue;
+}
+
+.apps-title {
+  font-size: 20px;
+  padding-top: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.apps-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.apps-wrapper-app {
+  padding: 1.85%;
+  width: 46%;
+}
+
+.apps-wrapper-app-icon img {
+  width: 100%;
+}
+
+.apps-wrapper-app-appname {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  -webkit-text-decoration-color: aliceblue;
+          text-decoration-color: aliceblue;
+  color: black;
+}
+
+.apps-wrapper-app-appdis {
+  font-size: 18px;
+  margin-top: 2px;
+  color: black;
+  -webkit-text-decoration-color: aliceblue;
+          text-decoration-color: aliceblue;
+}
+
+.post-title {
+  font-size: 20px;
+  padding-top: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.post p {
+  text-align: center;
+}
+
+.about-title {
+  font-size: 20px;
+  padding-top: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.about p {
+  text-align: center;
+}
+
+.contact {
+  background-color: aliceblue;
+}
+
+.contact-title {
+  font-size: 20px;
+  padding-top: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.contact p {
+  text-align: center;
+}
+
+.shouhyou {
+  font-size: 5px;
+}
+/*# sourceMappingURL=main_m.css.map */

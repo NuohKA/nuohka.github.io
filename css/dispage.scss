@@ -1,0 +1,40 @@
+.appname{
+    text-align: center;
+}
+
+
+
+.ppar{
+    text-align: center;
+    font-size: large;
+    color: black;
+    text-decoration: none;
+}
+
+.gptag{
+    
+    text-align: center;
+    font-size: large;
+    color: black;
+    text-decoration: none;
+}
+
+.gpimg{
+    max-width: 100%;
+	height: auto;
+}
+
+
+
+.contact{
+    background-color: aliceblue;
+    &-title{
+        font-size: 20px;
+        padding-top: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+}

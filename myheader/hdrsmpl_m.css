@@ -1,0 +1,109 @@
+/**
+ * myheader
+ *   myheader__logo
+ *   myheader__button
+ *     myheader__button__div1
+ *     myheader__button__div2
+ *     myheader__button__div3
+ *     myheader__button__batsu
+ *   myheader__wrapper
+ *     myheader__wrapper__item
+ *       a
+ *     myheader__wrapper__item
+ *       a
+ * 
+ */
+.myheader {
+  position: relative;
+  width: 100%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: aliceblue;
+}
+
+.myheader__logo {
+  font-weight: bold;
+  font-size: 25px;
+  padding-left: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+.myheader__button {
+  position: absolute;
+  display: block;
+  top: 10px;
+  right: 10px;
+  height: 36px;
+  width: 45px;
+  background-color: aliceblue;
+  border: none;
+}
+
+.myheader__button div {
+  position: absolute;
+  left: 10px;
+  height: 2px;
+  width: 25px;
+  background-color: black;
+  border-radius: 1px;
+  display: block;
+}
+
+.myheader__button__div1 {
+  top: 7px;
+}
+
+.myheader__button__div2 {
+  top: 16px;
+}
+
+.myheader__button__div3 {
+  top: 23px;
+}
+
+.myheader__button__batsu {
+  display: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+  text-align: center;
+}
+
+.myheader__wrapper {
+  width: 100%;
+  margin: 0px;
+  position: absolute;
+  display: none;
+}
+
+.myheader__wrapper.show {
+  display: block;
+}
+
+.myheader__wrapper__item {
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.myheader__wrapper__item.show {
+  display: block;
+}
+
+.myheader__wrapper__item.show a {
+  display: block;
+}
+
+.myheader__wrapper__item a {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 60px;
+  opacity: 0.9;
+  text-decoration: none;
+  color: black;
+  background-color: aliceblue;
+  padding-left: 3rem;
+  padding-right: 0px;
+  display: none;
+}
+/*# sourceMappingURL=hdrsmpl_m.css.map */

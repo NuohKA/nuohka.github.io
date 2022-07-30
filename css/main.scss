@@ -1,0 +1,100 @@
+.myname{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    text-align: center;
+    flex-flow: column;
+    &-h2{
+        font-size: 50px;
+        font-weight: bold;
+    }
+    &-dis{
+        font-size: 20px;
+        font-weight: bold;
+    }
+   
+}
+
+.apps{
+    background-color: aliceblue;
+    &-title{
+        font-size: 20px;
+        padding-top: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+    &-wrapper{
+        display: flex;
+        flex-wrap:wrap;
+
+        &-app{ 
+                padding: 2.05%;
+                width: 29%;
+                &-icon{
+                    img{
+                        width: 100%;
+                    }
+                    
+                }
+                &-appname{
+                    font-weight: bold;
+                    font-size: 20px;
+                    margin-top: 5px;
+                    margin-bottom: 0px;
+                    text-decoration-color:aliceblue;
+                    color: black;
+                }
+                &-appdis{
+                    font-size:18px;
+                    margin-top: 2px;
+                    text-decoration-color:aliceblue;
+                    color: black;
+                }
+            
+            
+        }
+    }
+    
+}
+
+.post{
+    &-title{
+        font-size: 20px;
+        padding-top: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+}
+
+.about{
+    &-title{
+        font-size: 20px;
+        padding-top: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+}
+
+.contact{
+    background-color: aliceblue;
+    &-title{
+        font-size: 20px;
+        padding-top: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+}
+
+.shouhyou{
+    font-size: 5px;
+}

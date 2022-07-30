@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="icon1.svg"
+   inkscape:export-xdpi="61.927616"
+   inkscape:export-ydpi="61.927616"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68595679"
+     inkscape:cx="512.42295"
+     inkscape:cy="424.22497"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-7.2890889"
+       y="345.50281"
+       width="520.14806"
+       height="76.707867"
+       id="rect2403" />
+    <rect
+       x="220.13048"
+       y="176.39595"
+       width="580.21147"
+       height="520.44094"
+       id="rect3204" />
+  </defs>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.207413"
+       id="rect910"
+       width="210"
+       height="8"
+       x="-4.4408921e-16"
+       y="140"
+       ry="5.0052585e-16" />
+    <rect
+       style="fill:#00ff00;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect1014"
+       width="30.857141"
+       height="103.37143"
+       x="94.15551"
+       y="-44.560104"
+       ry="8.4463727e-16"
+       transform="rotate(34.719435)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#00ff00;fill-rule:evenodd;stroke:#fff1f7;stroke-width:1.17165"
+       id="path1118"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="43.734531"
+       sodipodi:cy="432.97189"
+       sodipodi:r1="146.50887"
+       sodipodi:r2="73.254433"
+       sodipodi:arg1="0.82762657"
+       sodipodi:arg2="1.8748241"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 142.86613,540.8504 -99.2568,464.88312 87.59426,293.18215 Z"
+       transform="matrix(0.11017623,-0.11388446,0.07969537,0.09786022,10.811926,83.251832)"
+       inkscape:transform-center-x="-3.1541398"
+       inkscape:transform-center-y="0.36626314" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.39805839,0,0,0.49903126,6.5109042,-86.639884)"
+       id="text2401"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2403);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-7.2890625"
+         y="402.2603"
+         id="tspan843"><tspan
+           style="font-size:62.2125px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan841">One Thing Diary
+</tspan></tspan></text>
+  </g>
+</svg>
